@@ -85,3 +85,12 @@ Marko Caric - [LinkedIn](https://www.linkedin.com/in/markocaric/) - pbmc117@gmai
 Project Link: [https://github.com/m-car/serenity](https://github.com/m-car/serenity)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+While there is no standard for defining responsive breakpoints because of the large number of devices in the market, devices with the following screen sizes have been most commonly used in 2021 across the world:
+
+1920×1080
+1366×768
+360×640
+414×896
+1536×864
+375×667
